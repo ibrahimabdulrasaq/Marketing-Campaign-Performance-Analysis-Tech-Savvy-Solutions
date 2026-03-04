@@ -1,7 +1,41 @@
 # Marketing Campaign Performance Analysis: Tech-Savy Solution
 End-to-end marketing campaign analytics solution built with Power BI, including Excel-based EDA, scalable star schema modeling, optimized DAX measures, short-term forecasting, and strategic performance optimization dashboards.
 
-# Table of Contents
+# 📑 Table of Contents
+
+* [Overview](#overview)
+* [Live Interactive Dashboard](#live-interactive-dashboard)
+* [Business Context](#business-context)
+* [Project Objectives](#project-objectives)
+* [Business Questions](#business-questions)
+* [Dataset Description](#dataset-description)
+
+  * [Structure](#structure)
+  * [Dataset Characteristics](#dataset-characteristics)
+  * [Dataset Dictionary](#dataset-dictionary)
+* [Tools & Technologies](#tools--technologies)
+* [Project Execution Workflow](#project-execution-workflow)
+
+  * [Phase 1: Data Ingestion](#phase-1-data-ingestion)
+  * [Phase 2: Data Cleaning & Transformation](#phase-2-data-cleaning--transformation)
+  * [Phase 3: Exploratory Data Analysis (Excel)](#phase-3-exploratory-data-analysis-excel)
+  * [Phase 4: Semantic Data Modeling (Power BI)](#phase-4-semantic-data-modeling-power-bi)
+  * [Phase 5: Measure Layer Design](#phase-5-measure-layer-design)
+  * [Phase 6: Dashboard Wireframing](#phase-6-dashboard-wireframing)
+* [Dashboard Breakdown](#dashboard-breakdown)
+
+  * [Page 1 – Overview](#page-1--overview)
+  * [Page 2 – Customer Growth & Acquisition](#page-2--customer-growth--acquisition)
+  * [Page 3 – Trend & Predictive Insights](#page-3--trend--predictive-insights)
+  * [Page 4 – Executive Optimization Summary](#page-4--executive-optimization-summary)
+* [Forecasting Approach](#forecasting-approach)
+* [Overall Strategic Recommendation](#overall-strategic-recommendation-summary)
+* [Business Impact](#business-impact)
+* [Limitations](#limitations)
+* [Future Improvements](#future-improvements)
+* [Conclusion](#conclusion)
+* [Author](#author)
+* [Contact](#contact)
 
 ## Overview
 
@@ -13,7 +47,7 @@ The final solution connects marketing spend, acquisition efficiency, revenue per
 
 ## Live Interactive Dashboard
 
-👉 View the interactive dashboard here: [Click to Explore]()
+👉 View the interactive dashboard here: [Click to Explore](https://www.novypro.com/profile_about/1768603691117x499853414232449100?Popup=memberProject&Data=1772609122232x542527365498012900)
 
 ## Business Context
 
@@ -395,6 +429,10 @@ Overall, performance optimization should focus on incremental efficiency improve
 * A short-term (3-month) revenue forecast was applied using Power BI’s built-in analytics forecasting model.
 
 * Forecast horizon was intentionally limited to ensure reliability and avoid speculative long-term projections.
+
+### Dashboard Navigation
+
+To enhance usability and create a seamless reporting experience, bookmark-driven navigation was implemented within the Power BI report. This allowed the dashboards to function more like an interactive analytical application rather than static report pages.
 
 ## Overall Strategic Recommendation (Summary)
 
